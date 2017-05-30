@@ -2,7 +2,7 @@
 Introduction
 ###################
 
-This is a simple crud application developed in codeigniter 3. It also has login system.
+This is a simple crud application developed in codeigniter 3. It also has a login system.
 
 *******************
 Database info
